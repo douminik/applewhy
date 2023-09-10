@@ -1,0 +1,24 @@
+{
+  "name": "applewhy",
+  "version": "1.0.0",
+  "description": "Apple Why is a collection of issues and solutions that users of Apple products (mainly iPhone, iPad, Mac) may encounter during use.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/douminik/applewhy.git"
+  },
+  "author": "douminik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/douminik/applewhy/issues"
+  },
+  "homepage": "https://github.com/douminik/applewhy#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.10"
+  }
+}
