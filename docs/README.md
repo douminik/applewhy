@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /images/logo.png
-heroText: The Terminator of the Second Classroom
-tagline: Targeting some black technology features in the second classroom
+heroText: Apple Why
+tagline: Apple为什么 是一个面向用户的手册 
 actionText: 快速上手 →
 actionLink: /guide/general/
 features:
